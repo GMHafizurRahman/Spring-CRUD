@@ -1,2 +1,2 @@
 # Spring_CRUD_Annotation_JDBC
-Spring CRUD using Annotation with JDBC
+Spring CRUD using Annotation with Spring_JDBC
